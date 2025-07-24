@@ -1,6 +1,6 @@
 # AI Chatbot 🤖
 
-A full-stack AI chatbot application built with **React**, **Tailwind CSS**,**Express**, and **Node.js**, integrated with **Google's Gemini API**. This project was created as a hands-on learning exercise to understand how to build and connect AI-powered features with modern web technologies.
+A full-stack AI chatbot application built with **React**, **Tailwind CSS**,**Express**, **Node.js**, and  **MongoDB** integrated with **Google's Gemini API**. This project was created as a hands-on learning exercise to understand how to build and connect AI-powered features with modern web technologies.
 
 ---
 
